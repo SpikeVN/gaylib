@@ -91,5 +91,10 @@ CONTENT = {
     "vẫn": "zẫn",
     "rồi": "gùii",
     "chung": "truk",
-    "phim": "fjm"
+    "phim": "fjm",
+    "ừ": "uk",
+    "gì": "z",
+    "trời": "tr",
+    "tuổi": "tut",
+    "chú": "chu"
 }
